@@ -1,0 +1,2 @@
+defmodule Scryfall do
+end

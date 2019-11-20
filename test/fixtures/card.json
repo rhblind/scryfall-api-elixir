@@ -1,0 +1,99 @@
+{
+    "object": "card",
+    "id": "4685e726-1ea7-4bc4-b76d-d815ce5b1804",
+    "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+    "multiverse_ids": [
+      474027
+    ],
+    "name": "Swamp",
+    "printed_name": "Marais",
+    "lang": "fr",
+    "released_at": "2019-10-04",
+    "uri": "https://api.scryfall.com/cards/4685e726-1ea7-4bc4-b76d-d815ce5b1804",
+    "scryfall_uri": "https://scryfall.com/card/eld/258/fr/marais?utm_source=api",
+    "layout": "normal",
+    "highres_image": false,
+    "image_uris": {
+        "small": "https://img.scryfall.com/cards/small/front/4/6/4685e726-1ea7-4bc4-b76d-d815ce5b1804.jpg?1570004994",
+        "normal": "https://img.scryfall.com/cards/normal/front/4/6/4685e726-1ea7-4bc4-b76d-d815ce5b1804.jpg?1570004994",
+        "large": "https://img.scryfall.com/cards/large/front/4/6/4685e726-1ea7-4bc4-b76d-d815ce5b1804.jpg?1570004994",
+        "png": "https://img.scryfall.com/cards/png/front/4/6/4685e726-1ea7-4bc4-b76d-d815ce5b1804.png?1570004994",
+        "art_crop": "https://img.scryfall.com/cards/art_crop/front/4/6/4685e726-1ea7-4bc4-b76d-d815ce5b1804.jpg?1570004994",
+        "border_crop": "https://img.scryfall.com/cards/border_crop/front/4/6/4685e726-1ea7-4bc4-b76d-d815ce5b1804.jpg?1570004994"
+    },
+    "mana_cost": "",
+    "cmc": 0,
+    "type_line": "Basic Land — Swamp",
+    "printed_type_line": "Terrain de base : marais",
+    "oracle_text": "({T}: Add {B}.)",
+    "colors": [],
+    "color_identity": [
+        "B"
+    ],
+    "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "brawl": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal"
+    },
+    "games": [
+        "arena",
+        "mtgo",
+        "paper"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set": "eld",
+    "set_name": "Throne of Eldraine",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/eld?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/4685e726-1ea7-4bc4-b76d-d815ce5b1804/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+    "collector_number": "258",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Paul Scott Canavan",
+    "artist_ids": [
+        "c19bfb77-5099-4f7c-8585-6eaf367712c9"
+    ],
+    "illustration_id": "1b9cc763-2480-428c-bdca-2998220bd566",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "prices": {
+        "usd": null,
+        "usd_foil": null,
+        "eur": null,
+        "tix": null
+    },
+    "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=474027&printed=true",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Swamp&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Swamp",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Swamp"
+    },
+    "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/productcatalog/product/show?ProductName=Swamp&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swamp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swamp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+}
