@@ -24,6 +24,7 @@ defmodule Scryfall.MixProject do
     [
       {:bypass, "~> 1.0", only: :test},
       {:credo, "~> 1.1", only: [:test, :dev]},
+      {:cachex, "~> 3.2"},
       {:ex_string_util, "~> 0.1.0"},
       {:httpoison, "~> 1.6"},
       {:jason, "~> 1.1"}
